@@ -36,7 +36,7 @@
 			alert("수정 성공");
 			location.href = "view.do?uid=${param.uid}";
 		</script>
-	</c:otherwise>
+</c:otherwise>
   ```
 
 ##
